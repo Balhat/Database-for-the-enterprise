@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tex_otdel", "tex_otdel.csproj", "{E598373F-48AC-4362-BA9D-FFE33B1D2E3C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{9483A63F-9713-4444-A357-6F8464CD6A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E598373F-48AC-4362-BA9D-FFE33B1D2E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E598373F-48AC-4362-BA9D-FFE33B1D2E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E598373F-48AC-4362-BA9D-FFE33B1D2E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E598373F-48AC-4362-BA9D-FFE33B1D2E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9483A63F-9713-4444-A357-6F8464CD6A23}.Debug|Any CPU.ActiveCfg = Debug
+		{9483A63F-9713-4444-A357-6F8464CD6A23}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B594CD1-2AC9-4DD9-9BFD-3ED39D6C2647}
+	EndGlobalSection
+EndGlobal
